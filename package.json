@@ -1,0 +1,22 @@
+{
+  "name": "tidpunkt",
+  "version": "1.0.0",
+  "description": "A simple, connected microblogging platform.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atdean/tidpunkt.git"
+  },
+  "author": "Austin Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atdean/tidpunkt/issues"
+  },
+  "homepage": "https://github.com/atdean/tidpunkt#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0"
+  }
+}
